@@ -19,7 +19,7 @@ The code to accomplish the [listed features and modifications](#feature-summary)
 
 ### ...but why?
 
-After completing a [wonderful (and wonderfully dreaded) Operating Systems course](https://catalogue.usask.ca/CMPT-332), I felt motivated and interested in continuing modifications to xv6. After a discussion with the instructor, I have opted to make this project private by default, and will whitelist access to the repository upon request. Exercises and assignments in operating system courses can only be so original, and a quick Google search of *xv6 ``<feature>``* already will yield [many public repositories of previous assignments](https://www.google.ca/search?q=xv6+github+solutions). A public repository showcasing the features implemented and changes made is available here, and access to the source code with these changes will be granted to potential supervisors, employers, etc. upon request.
+After completing a wonderful (and wonderfully dreaded) [Operating Systems course](https://catalogue.usask.ca/CMPT-332), I felt motivated and interested in continuing modifications to xv6. After a discussion with the instructor, I have opted to make this project private by default, and will whitelist access to the repository upon request. Exercises and assignments in operating system courses can only be so original, and a quick Google search of *xv6 ``<feature>``* already will yield [many public repositories of previous assignments](https://www.google.ca/search?q=xv6+github+solutions). A public repository showcasing the features implemented and changes made is available here, and access to the source code with these changes will be granted to potential supervisors, employers, etc. upon request.
 
 ### How can I see your code?
 
