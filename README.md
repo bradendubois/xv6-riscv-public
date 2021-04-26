@@ -4,10 +4,11 @@ A showcase of the features and modifications made to [MIT](https://github.com/mi
 
 ## Feature Summary
 
-- lazy memory allocation
 - the lseek system call
-- synchronization primitives (mutexes / semaphores)
+- a number of processes system call
+- increased file and filesystem size
 - a multi-level feedback queue for process scheduling
+- a system call to change process priority
 
 ## Project Specification
 
